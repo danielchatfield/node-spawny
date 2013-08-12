@@ -1,6 +1,6 @@
 {
   "name": "spawny",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "lib/spawny.js",
   "description": "A small wrapper around child_process.spawn with some helpful features.",
   "homepage": "https://github.com/danielchatfield/node-spawny",
