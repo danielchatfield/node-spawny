@@ -1,0 +1,30 @@
+{
+  "name": "spawny",
+  "version": "0.0.0",
+  "main": "lib/spawny.js",
+  "description": "A small wrapper around child_process.spawn with some helpful features.",
+  "homepage": "https://github.com/danielchatfield/node-spawny",
+  "bugs": "https://github.com/danielchatfield/spawny/issues",
+  "author": {
+    "name": "Daniel Chatfield",
+    "email": "chatfielddaniel@gmail.com",
+    "url": "https://github.com/danielchatfield/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielchatfield/spawny"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "dependencies": {
+    "cmdify": "~0.0.4"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
