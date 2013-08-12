@@ -1,4 +1,4 @@
-# spawny [![Build Status](https://secure.travis-ci.org/danielchatfield/node-spawny.png?branch=master)](http://travis-ci.org/danielchatfield/node-spawny) [![Dependency Status](https://david-dm.org/danielchatfield/node-spawny)](https://david-dm.org/danielchatfield/node-spawny) 
+# spawny [![Build Status](https://secure.travis-ci.org/danielchatfield/node-spawny.png?branch=master)](http://travis-ci.org/danielchatfield/node-spawny) [![Dependency Status](https://david-dm.org/danielchatfield/node-spawny.png)](https://david-dm.org/danielchatfield/node-spawny) 
 
 A small wrapper around child_process.spawn with some helpful features.
 
